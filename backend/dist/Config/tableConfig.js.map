@@ -1,0 +1,1 @@
+{"version":3,"file":"tableConfig.js","names":["USERS_TABLE","exports"],"sources":["../../src/Config/tableConfig.js"],"sourcesContent":["export const USERS_TABLE = 'users';\r\n"],"mappings":"iGAAO,GAAM,CAAAA,WAAW,CAAAC,OAAA,CAAAD,WAAA,CAAG,OAAO","ignoreList":[]}
