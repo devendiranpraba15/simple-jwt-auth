@@ -18,6 +18,10 @@ Install pnpm if you dont have it installed
 - Then run with
   - pnpm dev
 
-# Building the project
+# Building both the project frontend and backend
 
-- Run pnpm build from the project root directory
+- Run pnpm build-all from the project root directory
+
+# Run both the project frontend and backend
+
+- Run pnpm dev-run from the project root directory
