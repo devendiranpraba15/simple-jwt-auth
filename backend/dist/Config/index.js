@@ -1,2 +1,0 @@
-"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.CORS_CONFIG=void 0;var CORS_CONFIG=exports.CORS_CONFIG={methods:['GET','POST','DELETE','PATCH','PUT'],headers:['Origin','X-Requested-With','Content-Type','Accept','Cookie','Authorization','Access-Control-Allow-Headers','Access-Control-Allow-Origin','Access-Control-Allow-Credentials'],credentials:true,origin:['http://localhost:3000','http://localhost:6010']};
-//# sourceMappingURL=index.js.map

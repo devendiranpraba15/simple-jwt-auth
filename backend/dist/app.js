@@ -1,2 +1,0 @@
-"use strict";var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var _Server=_interopRequireDefault(require("./Server"));var _UserRoutesV=_interopRequireDefault(require("./Routes/UserRoutesV1"));var app=(0,_Server["default"])([{path:'/api/user/v1',router:_UserRoutesV["default"]}]);var _default=exports["default"]=app;
-//# sourceMappingURL=app.js.map
