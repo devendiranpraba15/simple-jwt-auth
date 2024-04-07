@@ -12,5 +12,5 @@ export const CORS_CONFIG = {
     'Access-Control-Allow-Credentials',
   ],
   credentials: true,
-  origin: ['http://localhost:3000', 'http://localhost:6010'],
+  origin: ['http://localhost:3000', 'http://localhost:5000'],
 };

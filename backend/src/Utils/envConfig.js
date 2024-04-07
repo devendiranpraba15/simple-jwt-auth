@@ -2,7 +2,7 @@ import dotenv from 'dotenv';
 dotenv.config({ debug: true, path: './src/_settings.env' });
 
 export const ENV_CONFIG = {
-  apiServerPort: { env: 'API_PORT', default: 6010 },
+  apiServerPort: { env: 'API_PORT', default: 5000 },
   sequelizeDialect: { env: 'API_SEQUELIZE_DIALECT', default: 'postgres' },
   sequelizeLogging: { env: 'API_SEQUELIZE_LOGGING', default: false },
   sequelizeLogQueryParams: { env: 'API_SEQUELIZE_LOG_PARAMS', default: false },
